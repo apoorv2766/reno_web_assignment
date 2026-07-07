@@ -165,7 +165,7 @@ export function NoticeForm({ mode, initialValues, onSubmit }: NoticeFormProps) {
             id="imageUrl"
             type="url"
             className="w-full rounded-xl border border-slate-300 px-3 py-2 outline-none ring-0 transition focus:border-slate-500"
-            placeholder="https://example.com/image.jpg"
+            placeholder="Your image url here"
             value={values.imageUrl}
             onChange={(e) => setField("imageUrl", e.target.value)}
           />
