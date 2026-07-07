@@ -98,3 +98,8 @@ AI assistance was used to:
 - refine validation and README phrasing.
 
 All code paths, data model decisions, API behavior, and assignment-rule compliance were manually reviewed and adjusted.
+
+## Submission Links
+
+- Live app: https://reno-web-assignment.vercel.app/
+- GitHub repo: https://github.com/apoorv2766/reno_web_assignment
